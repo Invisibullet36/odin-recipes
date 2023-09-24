@@ -1,4 +1,6 @@
 # odin-recipes
 Odin Project: Recipe
 
-This is a project to review the basics?
+Project from "The Odin Project"
+
+This is my first ever submission of anything code related online, except for, like, one problem on leetcode.
